@@ -8,3 +8,7 @@ HTML5<br>
 
 <h4>Currently learning:</h4>
 CSS
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ProclaimedMarvel&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a>
