@@ -1,14 +1,13 @@
-<h1>ProclaimedMarvel:</h1>
+# ProclaimedMarvel
 
-<h2>Socials:</h2>
-LinkedIn<br>Gmail
+# About Me:
+I'm currently learning CSS  
 
-<h2>Programming Language(s):</h2>
-HTML5<br>
+# Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-alofe) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favoralofe@gmail.com)  
 
-<h4>Currently learning:</h4>
-CSS<br>
+# Programming Language:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ProclaimedMarvel&label=Profile%20Views&color=9&icon=5&pretty=true" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=ProclaimedMarvel&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
