@@ -7,7 +7,7 @@ LinkedIn<br>Gmail
 HTML5<br>
 
 <h4>Currently learning:</h4>
-CSS
+CSS<br>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ProclaimedMarvel&label=Profile%20Views&color=9&icon=5&pretty=true" />
