@@ -1,8 +1,7 @@
 ## Hi, I'm Favour
 
 ## About Me:
-👨‍🎓 BSc. Computer Science (BSc) @ Wilfrid Laurier University (Waterloo, ON, Canada)
-👨‍💻 Currently learning C and Java
+👨‍🎓 BSc. Computer Science (BSc) @ Wilfrid Laurier University (Waterloo, ON, Canada) <br> 👨‍💻 Currently learning C and Java
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-alofe)
