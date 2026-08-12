@@ -1,4 +1,4 @@
-# <div align="center"> Hi, I'm Favour </div>
+## Hi, I'm Favour
 
 ## About Me:
 👨‍🎓 Computer Science (BSc) student at Wilfrid Laurier University (Waterloo, ON, Canada)
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-alofe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favoralofe@gmail.com)  
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
