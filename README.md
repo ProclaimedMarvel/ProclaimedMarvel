@@ -1,4 +1,4 @@
-# <div align="center"> Hi, I'm Favour thow to </div>
+# <div align="center"> Hi, I'm Favour </div>
 
 ## About Me:
 Currently learning C.
